@@ -1,0 +1,313 @@
+﻿RSSНаука, Образование
+RSS История (sci_history) - 25617
+RSS Психология (sci_psychology) - 7597
+RSS Философия (sci_philosophy) - 5869
+RSS Технические науки (sci_tech) - 4929
+RSS Политика (sci_politics) - 4525
+RSS Литературоведение (sci_philology) - 3772
+RSS Культурология (sci_culture) - 3435
+RSS Научная литература: прочее (science) - 3344
+RSS Медицина (sci_medicine) - 2821
+RSS Учебники (sci_textbook) - 2743
+RSS Военная история (military_history) - 2613
+RSS Языкознание (sci_linguistic) - 2373
+RSS Религиоведение (sci_religion) - 2227
+RSS Юриспруденция (sci_juris) - 1581
+RSS Биология (sci_biology) - 1570
+RSS Педагогика (sci_pedagogy) - 1459
+RSS Математика (sci_math) - 1328
+RSS Физика (sci_phys) - 1258
+RSS Деловая литература (sci_business) - 1240
+RSS Астрономия и Космос (sci_cosmos) - 860
+RSS Геология и география (sci_geo) - 761
+RSS Альтернативная медицина (sci_medicine_alternative) - 704
+RSS Экономика (sci_economy) - 681
+RSS Обществознание (sci_social_studies) - 650
+RSS Секс и семейная психология (psy_sex_and_family) - 590
+RSS Психотерапия и консультирование (psy_theraphy) - 528
+RSS Детская психология (psy_childs) - 506
+RSS Иностранные языки (foreign_language) - 497
+RSS Шпаргалки (sci_crib) - 465
+RSS Химия (sci_chem) - 429
+RSS Зоология (sci_zoo) - 294
+RSS Ботаника (sci_botany) - 246
+RSS Государство и право (sci_state) - 217
+RSS Экология (sci_ecology) - 183
+RSS Биохимия (sci_biochem) - 70
+RSS Ветеринария (sci_veterinary) - 55
+RSS Физическая химия (sci_physchem) - 44
+RSS Учебники и пособия ВУЗов (tbg_higher) - 41
+RSS Биофизика (sci_biophys) - 32
+RSS Органическая химия (sci_orgchem) - 27
+RSS Аналитическая химия (sci_anachem) - 14
+RSS Учебники и пособия для среднего и специального образования (tbg_secondary) - 14
+RSS Рефераты (sci_abstract) - 6
+RSS Востоковедение (sci_oriental) - 2
+RSS Школьные учебники и пособия, рефераты, шпаргалки (tbg_school) - 2
+RSSФантастика
+RSS Научная фантастика (sf) - 52952
+RSS Фэнтези (sf_fantasy) - 37058
+RSS Боевая фантастика (sf_action) - 12850
+RSS Ужасы (sf_horror) - 10872
+RSS Любовная фантастика (love_sf) - 10028
+RSS Альтернативная история (sf_history) - 6362
+RSS Социальная фантастика (sf_social) - 6054
+RSS Космическая фантастика (sf_space) - 5952
+RSS Юмористическая фантастика (sf_humor) - 5463
+RSS Детская фантастика (child_sf) - 3460
+RSS Попаданцы (popadanec) - 3446
+RSS Мистика (sf_mystic) - 2843
+RSS Городское фэнтези (sf_fantasy_city) - 2607
+RSS Детективная фантастика (sf_detective) - 2530
+RSS Героическая фантастика (sf_heroic) - 2430
+RSS Киберпанк (sf_cyberpunk) - 1972
+RSS Постапокалипсис (sf_postapocalyptic) - 1918
+RSS Эпическая фантастика (sf_epic) - 1776
+RSS Фантастика: прочее (sf_etc) - 1284
+RSS Юмористическое фэнтези (humor_fantasy) - 801
+RSS Космоопера (sf_space_opera) - 404
+RSS Историческое фэнтези (historical_fantasy) - 401
+RSS Сказочная фантастика (fairy_fantasy) - 313
+RSS ЛитРПГ (sf_litrpg) - 258
+RSS Технофэнтези (sf_technofantasy) - 253
+RSS Ненаучная фантастика (nsf) - 244
+RSS Стимпанк (sf_stimpank) - 229
+RSS Ироническая фантастика (sf_irony) - 227
+RSS Ироническое фэнтези (sf_fantasy_irony) - 195
+RSS Готический роман (gothic_novel) - 175
+RSS Хроноопера (hronoopera) - 51
+RSS Славянское фэнтези (russian_fantasy) - 6
+RSSПроза
+RSS Современная проза (prose_contemporary) - 46356
+RSS Классическая проза (prose_classic) - 19646
+RSS Историческая проза (prose_history) - 11201
+RSS Русская классическая проза (prose_rus_classic) - 9667
+RSS Советская классическая проза (prose_su_classics) - 8730
+RSS Проза (prose) - 8254
+RSS Рассказ (short_story) - 6037
+RSS О войне (prose_military) - 5603
+RSS Контркультура (prose_counter) - 1539
+RSS Роман (roman) - 1241
+RSS Эссе, очерк, этюд, набросок (essay) - 1076
+RSS Повесть (great_story) - 847
+RSS Магический реализм (prose_magic) - 572
+RSS Афоризмы (aphorisms) - 539
+RSS Эпистолярная проза (epistolary_fiction) - 538
+RSS Новелла (story) - 366
+RSS Антисоветская литература (dissident) - 245
+RSS Семейный роман/Семейная сага (sagas) - 208
+RSS Сентиментальная проза (prose_sentimental) - 73
+RSS Эпопея (prose_epic) - 27
+RSS Классическая проза ХX века (literature_20) - 22
+RSS Феерия (extravaganza) - 18
+RSS Классическая проза ХIX века (literature_19) - 16
+RSS Зарубежная классическая проза (foreign_prose) - 7
+RSS Классическая проза XVII-XVIII веков (literature_18) - 6
+RSS Экспериментальная, неформатная проза (prose_neformatny) - 3
+RSS Фантасмагория, абсурдистская проза (prose_abs) - 2
+RSSДетективы и Триллеры
+RSS Детективы: прочее (detective) - 14577
+RSS Триллер (thriller) - 13598
+RSS Классический детектив (det_classic) - 4921
+RSS Боевик (det_action) - 4253
+RSS Исторический детектив (det_history) - 4089
+RSS Полицейский детектив (det_police) - 4079
+RSS Любовные детективы (love_detective) - 2953
+RSS Криминальный детектив (det_crime) - 2835
+RSS Дамский детективный роман (det_cozy) - 2679
+RSS Иронический детектив (det_irony) - 2636
+RSS Шпионский детектив (det_espionage) - 2472
+RSS Детские остросюжетные (child_det) - 2396
+RSS Крутой детектив (det_hard) - 2048
+RSS Политический детектив (det_political) - 945
+RSS Маньяки (det_maniac) - 356
+RSS Медицинский триллер (thriller_medical) - 299
+RSS Юридический триллер (thriller_legal) - 237
+RSS Техно триллер (thriller_techno) - 61
+RSS Советский детектив (det_su) - 9
+RSS Психологический триллер (thriller_psychology) - 7
+RSSПоэзия
+RSS Поэзия: прочее (poetry) - 9149
+RSS Лирика (lyrics) - 679
+RSS в стихах (in_verse) - 411
+RSS Юмористические стихи (humor_verse) - 358
+RSS Эпическая поэзия (epic_poetry) - 267
+RSS Песенная поэзия (song_poetry) - 255
+RSS Басни (fable) - 98
+RSS Экспериментальная поэзия (experimental_poetry) - 81
+RSS Палиндромы (palindromes) - 32
+RSS Верлибры (vers_libre) - 27
+RSS Визуальная поэзия (visual_poetry) - 22
+RSS Классическая русская поэзия (poetry_rus_classical) - 12
+RSS Поэма, эпическая поэзия (poem) - 4
+RSS Современная поэзия (poetry_modern) - 4
+RSS Поэзия Востока (poetry_east) - 3
+RSS Современная русская поэзия (poetry_rus_modern) - 3
+RSS Классическая поэзия (poetry_classical) - 2
+RSS Современная зарубежная поэзия (poetry_for_modern) - 1
+RSS Классическая зарубежная поэзия (poetry_for_classical) - 1
+RSSДеловая литература
+RSS О бизнесе популярно (popular_business) - 1532
+RSS Управление, подбор персонала (management) - 1011
+RSS Маркетинг, PR, реклама (marketing) - 913
+RSS Экономика (economics) - 606
+RSS Ценные бумаги, инвестиции (stock) - 353
+RSS Бухучет и аудит (accounting) - 250
+RSS Личные финансы (personal_finance) - 221
+RSS Корпоративная культура (org_behavior) - 179
+RSS Поиск работы, карьера (job_hunting) - 176
+RSS Малый бизнес (small_business) - 168
+RSS Банковское дело (banking) - 110
+RSS Отраслевые издания (industries) - 100
+RSS Торговля (trade) - 89
+RSS Делопроизводство (paper_work) - 61
+RSS Недвижимость (real_estate) - 43
+RSS Внешняя торговля (global_economy) - 38
+RSS Деловая литература (economics_ref) - 1
+RSSРелигия и духовность
+RSS Эзотерика (religion_esoterics) - 6256
+RSS Самосовершенствование (religion_self) - 4464
+RSS Религия (religion_rel) - 3323
+RSS Христианство (religion_christianity) - 2866
+RSS Православие (religion_orthodoxy) - 2654
+RSS Буддизм (religion_budda) - 1380
+RSS Индуизм (religion_hinduism) - 399
+RSS Иудаизм (religion_judaism) - 385
+RSS Астрология (astrology) - 384
+RSS Протестантизм (religion_protestantism) - 267
+RSS Язычество (religion_paganism) - 245
+RSS Ислам (religion_islam) - 188
+RSS Религиозная литература: прочее (religion) - 150
+RSS Католицизм (religion_catholicism) - 115
+RSS Хиромантия (palmistry) - 44
+RSSДомоводство (Дом и семья)
+RSS Здоровье (home_health) - 4394
+RSS Хобби и ремесла (home_crafts) - 3818
+RSS Эротика, Секс (home_sex) - 3717
+RSS Кулинария (home_cooking) - 3656
+RSS Сделай сам (home_diy) - 2214
+RSS Спорт (home_sport) - 2122
+RSS Домоводство (home) - 1464
+RSS Домашние животные (home_pets) - 1194
+RSS Сад и огород (home_garden) - 1107
+RSS Развлечения (home_entertain) - 772
+RSS Коллекционирование (home_collecting) - 145
+RSS Семейные отношения (family) - 2
+RSSПриключения
+RSS Приключения: прочее (adventure) - 5440
+RSS Исторические приключения (adv_history) - 5034
+RSS Путешествия и география (adv_geo) - 4876
+RSS Детские приключения (child_adv) - 2489
+RSS Природа и животные (adv_animal) - 2211
+RSS Морские приключения (adv_maritime) - 1567
+RSS Вестерн (adv_western) - 799
+RSS Приключения про индейцев (adv_indian) - 329
+RSS Авантюрный роман (adv_story) - 8
+RSS Приключения в современном мире (adv_modern) - 7
+RSSДетское
+RSS Детская проза (child_prose) - 8456
+RSS Сказка (child_tale) - 8257
+RSS Детская литература: прочее (children) - 5472
+RSS Образовательная литература (child_education) - 2993
+RSS Детские стихи (child_verse) - 2151
+RSS Подростковая литература (ya) - 1068
+RSS Книга-игра (prose_game) - 202
+RSS Детский фольклор (child_folklore) - 87
+RSS Русские сказки (child_tale_rus) - 26
+RSS Классическая детская литература (child_classical) - 4
+RSSКультура и искусство
+RSS Искусство и Дизайн (design) - 1696
+RSS Музыка (music) - 1165
+RSS Кино (cine) - 817
+RSS Изобразительное искусство, фотография (visual_arts) - 656
+RSS Театр (theatre) - 459
+RSS Партитуры (notes) - 300
+RSS Архитектура (architecture_book) - 219
+RSS Искусствоведение (art_criticism) - 38
+RSS Живопись, альбомы, иллюстрированные каталоги (painting) - 6
+RSSКомпьютеры и Интернет
+RSS Околокомпьютерная литература (computers) - 2085
+RSS Программирование (comp_programming) - 1002
+RSS Программы (comp_soft) - 563
+RSS ОС и Сети (comp_osnet) - 474
+RSS Интернет (comp_www) - 452
+RSS Аппаратное обеспечение (comp_hard) - 354
+RSS Базы данных (comp_db) - 123
+RSS Цифровая обработка сигналов (comp_dsp) - 44
+RSS Учебные пособия, самоучители (tbg_computers) - 4
+RSSПрочее
+RSS Газеты и журналы (periodic) - 32517
+RSS Самиздат, сетевая литература (network_literature) - 20418
+RSS Фанфик (fanfiction) - 1892
+RSS Недописанное (unfinished) - 1041
+RSS Неотсортированное (other) - 180
+RSS Комиксы (comics) - 28
+RSS Диафильмы (diafilm) - 12
+RSS Альтернативные науки и научные теории (sci_theories) - 11
+RSSСтаринное
+RSS Мифы. Легенды. Эпос (antique_myths) - 1018
+RSS Древневосточная литература (antique_east) - 850
+RSS Античная литература (antique_ant) - 733
+RSS Древнеевропейская литература (antique_european) - 688
+RSS Старинная литература: прочее (antique) - 584
+RSS Древнерусская литература (antique_russian) - 213
+RSS Средневековая классическая проза (foreign_antique) - 14
+RSS Античная драма (drama_antique) - 2
+RSSФольклор
+RSS Народные сказки (folk_tale) - 982
+RSS Фольклор: прочее (folklore) - 238
+RSS Пословицы, поговорки (proverbs) - 75
+RSS Былины (epic) - 65
+RSS Народные песни (folk_songs) - 56
+RSS Частушки, прибаутки, потешки (limerick) - 30
+RSS Загадки (riddles) - 20
+RSS Современная сказка (modern_tale) - 1
+RSSТехника
+RSS Транспорт и авиация (sci_transport) - 2428
+RSS Радиоэлектроника (sci_radio) - 2128
+RSS Автомобили и ПДД (auto_regulations) - 407
+RSS Строительство и сопромат (sci_build) - 313
+RSS Металлургия (sci_metal) - 76
+RSS История техники (equ_history) - 9
+RSS Автодело (auto_business) - 1
+RSSДокументальная литература
+RSS Биографии и Мемуары (nonf_biography) - 24152
+RSS Публицистика (nonf_publicism) - 22359
+RSS Научпоп (sci_popular) - 6565
+RSS Критика (nonf_criticism) - 3317
+RSS Документальная литература (nonfiction) - 3118
+RSS Военная документалистика (nonf_military) - 1436
+RSS География, путевые заметки (travel_notes) - 20
+RSSДраматургия
+RSS Драматургия: прочее (dramaturgy) - 3555
+RSS Драма (drama) - 637
+RSS Киносценарии (screenplays) - 302
+RSS Трагедия (tragedy) - 277
+RSS Сценарии (scenarios) - 75
+RSS Водевиль (vaudeville) - 29
+RSS Мистерия (mystery) - 12
+RSSЛюбовные романы
+RSS Современные любовные романы (love_contemporary) - 13363
+RSS Короткие любовные романы (love_short) - 10530
+RSS Исторические любовные романы (love_history) - 8583
+RSS Эротика (love_erotica) - 3521
+RSS О любви (love) - 3459
+RSS Порно (love_hard) - 317
+RSSСправочная литература
+RSS Справочники (ref_ref) - 3841
+RSS Руководства (ref_guide) - 3256
+RSS Энциклопедии (ref_encyc) - 2255
+RSS Путеводители (geo_guides) - 786
+RSS Справочная литература (reference) - 627
+RSS Словари (ref_dict) - 421
+RSSЮмор
+RSS Юмористическая проза (humor_prose) - 5804
+RSS Юмор: прочее (humor) - 2612
+RSS Сатира (humor_satire) - 1316
+RSS Комедия (comedy) - 683
+RSS Анекдоты (humor_anecdote) - 390
+RSSВоенное дело
+RSS Военная техника и вооружение (military_weapon) - 3728
+RSS Спецслужбы (military_special) - 1023
+RSS Боевые искусства (military_arts) - 445
+RSS Военное дело: прочее (military) - 107

@@ -1,0 +1,45 @@
+                sql = "CREATE TABLE [GENRES] ("
+                sql &= "[GenreCode]  NVARCHAR(20)  Not NULL  PRIMARY KEY,"
+                sql &= "[ParentCode] NVARCHAR(20),"
+                sql &= "[FB2Code]    NVARCHAR(20),"
+                sql &= "[GenreAlias] NNVARCHAR(256) Not NULL );"
+
+                sql = "CREATE TABLE [GENRE_LIST] ("
+                sql &= "GenreCode VARCHAR(20) Not NULL ,"
+                sql &= "BookID    Integer     Not NULL,"
+
+                sql = "CREATE TABLE [AUTHOR_LIST] ("
+                sql &= "AuthorID Integer Not NULL,"
+                sql &= "BookID   Integer Not NULL,"
+
+                sql = "CREATE TABLE [AUTHORS] ("
+                sql &= "[AuthorID]   Integer        Not NULL PRIMARY KEY AUTOINCREMENT, "
+                sql &= "[LastName]   NNVARCHAR(128) Not NULL ,"
+                sql &= "[FirstName]  NVARCHAR(128)           ,"
+                sql &= "[MiddleName] NVARCHAR(128)           ,"
+                sql &= "[SearchName] NVARCHAR(512)           );"
+              
+		sql = "CREATE TABLE [SERIES] ("
+                sql &= "[SeriesID]          INTEGER       Not NULL PRIMARY KEY AUTOINCREMENT,"
+                sql &= "[SeriesTitle]       NVARCHAR(256) Not NULL  UNIQUE,"
+                sql &= "[SearchSeriesTitle] NVARCHAR(256)          );"
+
+
+               sql = "CREATE TABLE [BOOKS] ("
+                sql &= "[BookID]           Integer        Not NULL PRIMARY KEY AUTOINCREMENT,"
+                sql &= "[Title]            NVARCHAR(512)  Not NULL ,"
+                sql &= "[SeriesID]         Integer,"
+                sql &= "[SeqNumber]        Integer,"
+                sql &= "[Folder]           VARCHAR(256)            ,"
+                sql &= "[FileName]         VARCHAR(256)   Not NULL ,"
+                sql &= "[BookSize]         Integer,"
+                sql &= "[LoadDate]         VARCHAR(10),"
+				sql &= "[Keywords]         NVARCHAR(512)           ,"
+                sql &= "[Annotation]       NVARCHAR(8192)          ,"
+                sql &= "[Cover]            BLOB,"
+                sql &= "[Publisher]"       NVARCHAR(8192)          ,"     
+                sql &= "[SearchTitle]      NVARCHAR(512)           ,"
+                sql &= "[SearchKeyWords]   NVARCHAR(255));"
+
+
+select last_insert_rowid()
